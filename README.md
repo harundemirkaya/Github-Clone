@@ -1,5 +1,7 @@
 # Github Clone
 
+![alt text](https://softetik.com/git/desc.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
