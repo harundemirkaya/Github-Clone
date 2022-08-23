@@ -4,7 +4,7 @@ import '../themes/color.dart';
 
 const List populars = [
   {
-    "title": "flutter.instagram-clone",
+    "title": "flutter.github-clone",
     "star": "16",
     "language": "Dart",
   },
