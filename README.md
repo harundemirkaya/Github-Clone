@@ -1,6 +1,4 @@
-# gitapp
-
-A new Flutter project.
+# Github Clone
 
 ## Getting Started
 
